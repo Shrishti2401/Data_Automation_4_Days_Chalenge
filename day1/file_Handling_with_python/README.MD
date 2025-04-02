@@ -37,6 +37,11 @@ This script is modular and can be easily extended to handle:
 
 -Conditional value transformations
 
+---
+## 🙋‍♂️ Want to Explore More?
+This is part of a bigger challenge. Feel free to check out [my LinkedIn post](https://www.linkedin.com/posts/shrishti-agarwal-2a356a179_dataautomation-python-hackerrank-activity-7312849023315427329-otrC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpDdxsBKyiVKnfLLewO2siOKOBOcQ8V41o) or connect with me if you're curious about how it ties into data automation and analytics!
+
+
 
 
 
