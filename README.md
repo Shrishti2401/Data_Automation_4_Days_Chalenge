@@ -49,4 +49,5 @@ Chrome WebDriver
 
 ---
 ## 📂 Output
-products.xlsx: Final output file with cleaned and structured product data.
+[products.csv](products.csv): Final output file with structured product data it contains detail like Product Name, Price,Discount Price and Ratings
+[product_properties.csv](product_properties.csv) Final output file with structured product data it contains Product Information detail
