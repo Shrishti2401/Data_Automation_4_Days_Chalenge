@@ -25,17 +25,17 @@ Python 3.x
 -openCSV (for reading/writing CSV files)
 
 ## 📂 Output
-cleaned_data.xlsx: Final cleaned and structured version of the original dataset
+[cleaned_data.csv](): Final cleaned and structured version of the original dataset
 
 ---
 ## 💡 Notes
 This script is modular and can be easily extended to handle:
 
-Date formatting
+-Date formatting
 
-Duplicates removal
+-Duplicates removal
 
-Conditional value transformations
+-Conditional value transformations
 
 
 
