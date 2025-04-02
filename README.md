@@ -51,3 +51,7 @@ Chrome WebDriver
 ## 📂 Output
 [products.csv](products.csv): Final output file with structured product data it contains detail like Product Name, Price,Discount Price and Ratings
 [product_properties.csv](product_properties.csv) Final output file with structured product data it contains Product Information detail
+
+---
+## 🙋‍♂️ Want to Explore More?
+This is part of a bigger challenge. Feel free to check out my LinkedIn post or connect with me if you're curious about how it ties into data automation and analytics!
