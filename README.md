@@ -3,7 +3,7 @@
 ---
 Inspired by my recent learning journey, I'm taking on a focused 4-day challenge to sharpen my skills in Data Automation using Python. Here's my realistic, achievable roadmap:
 --
-📌 DAY 1: Python for Repetitive Task Automation
+📌 [DAY 1](day1): Python for Repetitive Task Automation
 (Automating routine daily tasks to boost productivity.)
 --
 📌 DAY 2: Advanced Data Manipulation & SQL Automation
