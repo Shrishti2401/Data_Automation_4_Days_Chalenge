@@ -28,7 +28,7 @@ Python 3.x
 cleaned_data.xlsx: Final cleaned and structured version of the original dataset
 
 ---
-##💡 Notes
+## 💡 Notes
 This script is modular and can be easily extended to handle:
 
 Date formatting
