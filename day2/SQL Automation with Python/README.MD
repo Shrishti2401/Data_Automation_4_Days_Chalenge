@@ -5,7 +5,7 @@ It focuses on real-world business problems like customer churn, revenue tracking
 
 ## 📄 File
 
-### [sql_automation.ipynb](sqlAutomation.ipynb)
+### [sql_automation.ipynb](sql_automation.py)
 - Uses the `sqlite3` library in Python to query customer transaction data.
 - Includes reusable SQL queries automated with Python.
 - Core tasks:
