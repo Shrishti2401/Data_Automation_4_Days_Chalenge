@@ -6,7 +6,7 @@ Inspired by my recent learning journey, I'm taking on a focused 4-day challenge 
 📌 [DAY 1](day1): Python for Repetitive Task Automation
 (Automating routine daily tasks to boost productivity.)
 --
-📌 DAY 2: Advanced Data Manipulation & SQL Automation
+📌 [DAY 2](day2): Advanced Data Manipulation & SQL Automation
 (Automating SQL queries, leveraging pivot tables, GROUP BY, and data transformations.)
 --
 📌 DAY 3: Automating Data Analytics & Dashboard Creation
