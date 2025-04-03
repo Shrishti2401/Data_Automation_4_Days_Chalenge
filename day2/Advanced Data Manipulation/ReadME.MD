@@ -4,18 +4,18 @@ This section showcases powerful data manipulation techniques using Python's pand
 
 ## 📄 Files
 
-### 1. `pivot_groupby_basics.ipynb`
+### 1. [pivot_groupby_basics.ipynb](Pivot_Table_Practice.ipynb)
 - Demonstrates basic operations using `groupby()` and `pivot_table()` in pandas.
 - Covers summarization of sales data, average calculations, and more.
 
-### 2. `advanced_sales_analysis.ipynb`
+### 2. [advanced_sales_analysis.ipynb](Sales_Analyis.ipynb)
 - Contains 5 real-world business problems solved using advanced groupby, pivot, and aggregation techniques.
 - Insights include:
   - Top-performing products
-  - Revenue trends by region
+  - Revenue trends by category
   - Customer purchase frequency
-  - Category-wise sales distribution
-  - Monthly revenue growth
+  - State-Wise Average Discount
+  - Region Wise Ship Mode
 
 ## 📚 Skills Demonstrated
 - Grouping and aggregation
