@@ -6,7 +6,7 @@ While full automation is still in progress,
 I have started integrating Python to simulate dynamic data with real-time timestamps, which I plan to connect with Tableau in the next stage.
 
 ## ✅ What’s Included
-- Interactive Tableau Dashboard [sales_dashboard.twb](Interactive_Sales_and_Customer_Dashboard.twb)
+- Interactive Tableau Dashboard [sales_dashboard.twb](Interactive_Sales_And_Customer_Dashboard.twb)
 - Python script to generate sample sales data with timestamp
 - CSV output: `sales_data_cleaned.csv`
 
