@@ -9,7 +9,7 @@ Inspired by my recent learning journey, I'm taking on a focused 4-day challenge 
 📌 [DAY 2](day2): Advanced Data Manipulation & SQL Automation
 (Automating SQL queries, leveraging pivot tables, GROUP BY, and data transformations.)
 --
-📌 DAY 3: Automating Data Analytics & Dashboard Creation
+📌 [DAY 3](day3): Automating Data Analytics & Dashboard Creation
 (Creating automated visualization workflows, linking data analytics with dashboards for dynamic insights.)
 --
 📌 DAY 4: Integrating AI & Prompt Engineering with Python
