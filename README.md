@@ -12,7 +12,7 @@ Inspired by my recent learning journey, I'm taking on a focused 4-day challenge 
 📌 [DAY 3](day3): Automating Data Analytics & Dashboard Creation
 (Creating automated visualization workflows, linking data analytics with dashboards for dynamic insights.)
 --
-📌 DAY 4: Integrating AI & Prompt Engineering with Python
+📌 [DAY 4](https://github.com/Shrishti2401/data_automation_pipeline): Integrating AI & Prompt Engineering with Python
 (Exploring the cutting-edge intersection of Data Analytics, AI, and Prompt Engineering for smarter insights.)
 ---
 ## 🙋‍♂️ Want to Explore More?
