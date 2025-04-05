@@ -5,4 +5,4 @@ It demonstrates a fully automated end-to-end data pipeline using **Python** and 
 
 ---
 
-To view detailed Day 4 Challenge navigate to my [Data_Automation END-TO-END Pipeline Repository]()  
+To view detailed Day 4 Challenge navigate to my [Data_Automation END-TO-END Pipeline Repository](https://github.com/Shrishti2401/data_automation_pipeline)  
