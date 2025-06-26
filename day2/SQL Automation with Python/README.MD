@@ -15,6 +15,10 @@ It focuses on real-world business problems like customer churn, revenue tracking
   - Calculate revenue lost due to inactive customers
   - Filter high-value churned customers (₹5,000+ lifetime spend)
 
+## 📎 Tableau Dashboard Link (View Online)
+🔗 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/shrishti.agarwal7750/viz/Interactive_Sales_And_Customer_Dashboard/SalesDashboard)
+-
+
 ## ⚙️ Automation Ready
 - All queries are executed from Python using `pandas.read_sql_query()`.
 - Final output can be saved as `.csv` or used for scheduled reporting.
